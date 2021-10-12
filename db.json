@@ -1,13 +1,49 @@
 {
   "transactions": [
     {
-      "date": "2021-09-15T03:00:00.000Z",
-      "week_day": "quarta",
-      "description": "Venda de carro.",
-      "value": 15000,
-      "category": "Vendas",
+      "date": "05/09/2021",
+      "week_day": "Terça",
+      "description": "pc para funcionario",
+      "value": "13000",
+      "category": "Compra",
+      "type": "debit",
+      "id": 12
+    },
+    {
+      "date": "05/05/2021",
+      "week_day": "Terça",
+      "description": "venda de bike",
+      "value": "10000",
+      "category": "bike",
       "type": "credit",
-      "id": 1
+      "id": 13
+    },
+    {
+      "date": "13/10/2021",
+      "week_day": "Quarta",
+      "description": "venda de relógio",
+      "value": "300",
+      "category": "Venda",
+      "type": "credit",
+      "id": 13
+    },
+    {
+      "date": "15/10/2021",
+      "week_day": "Sexta",
+      "description": "Compra do mês",
+      "value": "500",
+      "category": "Comida",
+      "type": "debit",
+      "id": 14
+    },
+    {
+      "date": "25/12/2021",
+      "week_day": "Sábado",
+      "description": "Visitar África",
+      "value": "9000",
+      "category": "Viagem",
+      "type": "debit",
+      "id": 15
     }
   ]
 }
