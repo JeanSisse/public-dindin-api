@@ -4,7 +4,6 @@
 
 Essa api servirá para você fazer a integração com o backend, ela foi criada e formatada para funcionar junto ao desafio.
 
-
 ## Passos necessários
 
 1.  Realizar o fork do repositório da api
@@ -13,40 +12,6 @@ Essa api servirá para você fazer a integração com o backend, ela foi criada 
 4.  Executar o `npm run dev` (Para "rodar" o projeto! Esse passo deve ser executado todas as vezes que você for desenvolver a aplicação)
 
 **Observação:** A api rodará no endereço http://localhost:3333 .
-
-## Dicas importantes
-
-- Você pode importar no seu insomnia a coleção com as requisições, assim você poderá testar a API quando quiser, veja abaixo como fazer:
-
-Obs.: Dentro da pasta `collections` nesse repositório, existe um arquivo chamado `Insomnia-All_2021-09-22.json`, você pode usar ele para importar as requisições para o seu **insomnia**.
-
-1. Clique na seta igual a imagem abaixo para abrir o menu dropdown:
-![](https://i.imgur.com/khGOQ9O.png)
-
-2. Clique em **import/Export**, então uma janela abrirá:
-![](https://i.imgur.com/y9gm9WK.png)
-
-3. Clique em **Import Data**, mais um menu dropdown irá abrir:
-![](https://i.imgur.com/sqfTelU.png)
-
-4. Clique na opção **From File**, e selecione o arquivo no seu computador e importe esse arquivo:
-![](https://i.imgur.com/nsvLxKP.png)
-
-5. Uma mensagem de sucesso será exibida no seu **Insomnia**, clique em OK:
-![](https://i.imgur.com/oJbm3lJ.png)
-
-6. Agora clique no texto <span style="color:#4c41ea">**Dashboard**</span> como na imagem abaixo:
-![](https://i.imgur.com/qltNXgd.png)
-
-7. Aparecerá todas as **collections** que o seu **Insomnia** tem, agora é só clicar em **API - Módulo 3** que a **collection** irá aparecer com todas as requests criadas:
-![](https://i.imgur.com/w3O4J2u.png)
-
-8. Se tudo deu certo, você verá essas requests importadas:
-![](https://i.imgur.com/vNjxebU.png)
-
-9. Agora você já pode testar tranquilamente.
-
-
 
 ## Instruções para o CRUD de transações:
 
