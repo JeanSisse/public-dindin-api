@@ -10,12 +10,12 @@
       "id": 12
     },
     {
-      "date": "05/05/2021",
-      "week_day": "Terça",
-      "description": "venda de bike",
-      "value": "10000",
-      "category": "bike",
-      "type": "credit",
+      "date": "13/10/2021",
+      "week_day": "Quarta",
+      "description": "venda de relógio",
+      "value": "400",
+      "category": "Venda",
+      "type": "debit",
       "id": 13
     },
     {
@@ -40,10 +40,19 @@
       "date": "25/12/2021",
       "week_day": "Sábado",
       "description": "Visitar África",
-      "value": "9000",
+      "value": "9500",
       "category": "Viagem",
       "type": "debit",
       "id": 15
+    },
+    {
+      "date": "16/10/2021",
+      "week_day": "Sábado",
+      "description": "Enceramento de mais um aplicativo",
+      "value": "25000",
+      "category": "Festa",
+      "type": "debit",
+      "id": 16
     }
   ]
 }
